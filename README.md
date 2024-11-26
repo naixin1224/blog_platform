@@ -1,7 +1,3 @@
-Based on the content provided in the image, here's an English `README.md` template:
-
----
-
 # **Blog Platform**
 
 ## **Project Description**
